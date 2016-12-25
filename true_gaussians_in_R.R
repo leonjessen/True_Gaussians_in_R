@@ -1,4 +1,6 @@
 # This R-script will generate true gaussian numbers using random.org
+# Athored by Leon Eyrich Jessen, December 2016
+# https://github.com/leonjessen/True_Gaussians_in_R
 
 # Clear workspace
 # ------------------------------------------------------------------------------
